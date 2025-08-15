@@ -9,7 +9,7 @@
       max-width: 700px;
       margin: auto;
       padding: 20px;
-      background-image: url('The-Brain-Buzzer.jpeg'); /* Use your bg.jpeg file */
+      background-image: url('bg3.jpeg'); /* Use your bg.jpeg file */
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
